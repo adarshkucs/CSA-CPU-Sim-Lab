@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Name** | <Adarsh kumar> |
+| **Name** | <Adarsh_kumar> |
 | **Roll No.** | <26570002> |
 | **Course / Semester** | <Bsc(hons)computer science,semester-1> |
 | **College** | Ramanujan College, University of Delhi |
