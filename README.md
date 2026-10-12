@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Name** | < SubhamSingh> |
-| **Roll No.** | <26570062> |
+| **Name** | <ADARSH KUMAR> |
+| **Roll No.** | <26570002> |
 | **Course / Semester** | <Bsc(hons)computer science,semester-1> |
 | **College** | Ramanujan College, University of Delhi |
 | **Paper** | Computer System Architecture |
