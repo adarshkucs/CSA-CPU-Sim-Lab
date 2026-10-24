@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Name** | < SubhamSingh> |
-| **Roll No.** | <26570062> |
+| **Roll No.** | <265700626> |
 | **Course / Semester** | <Bsc(hons)computer science,semester-1> |
 | **College** | Ramanujan College, University of Delhi |
 | **Paper** | Computer System Architecture |
